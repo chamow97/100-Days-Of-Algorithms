@@ -11,4 +11,8 @@
 	<p>Famous Towers of Hanoi Algorithm.</p>
 	<img src="screenshots/screen1.png">
 	<br>
+	<h5>Day3 Hanoi Tower</h5>
+	<p>Famous Towers of Hanoi Algorithm.</p>
+	<img src="screenshots/screen3.png">
+	<br>
 </center>
