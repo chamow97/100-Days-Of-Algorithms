@@ -19,4 +19,12 @@
 	<p>Count number of set bits.</p>
 	<img src="screenshots/screen4.png">
 	<br>
+	<h5>Day5 Erastothenes Seive</h5>
+	<p>Find number of primes.</p>
+	<img src="screenshots/screen5.png">
+	<br>
+	<h5>Day6 Postfix Notation</h5>
+	<p>Evaluation of postfix.</p>
+	<img src="screenshots/screen6.png">
+	<br>
 </center>
