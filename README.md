@@ -27,4 +27,8 @@
 	<p>Evaluation of postfix.</p>
 	<img src="screenshots/screen6.png">
 	<br>
+	<h5>Day8 Binary Search</h5>
+	<p>Searching a number O(lg N).</p>
+	<img src="screenshots/screen8.png">
+	<br>
 </center>
