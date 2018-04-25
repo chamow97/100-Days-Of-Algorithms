@@ -11,6 +11,10 @@
 	<p>Famous Towers of Hanoi Algorithm.</p>
 	<img src="screenshots/screen1.png">
 	<br>
+	<h5>Day2 Matrix Chain Multiplication</h5>
+	<p>Implementation of MCM.</p>
+	<img src="screenshots/screen2.png">
+	<br>
 	<h5>Day3 Next Permutation</h5>
 	<p>Implementation of Next Permutation Function.</p>
 	<img src="screenshots/screen3.png">
