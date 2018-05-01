@@ -35,4 +35,8 @@
 	<p>Searching a number O(lg N).</p>
 	<img src="screenshots/screen8.png">
 	<br>
+	<h5>Day9 Monte Carlo</h5>
+	<p>Finding PI value using randomized algorithm.</p>
+	<img src="screenshots/screen9.png">
+	<br>
 </center>
